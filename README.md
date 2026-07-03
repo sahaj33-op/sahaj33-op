@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Sahaj%20.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=~∞&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+Student+%40+SSASIT;Building+Practical+AI+%26+Automation+Tools;Creator+of+PocketMC+%26+MSM;Python+%7C+TypeScript+%7C+C%23;Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Computer+Engineering+Student;Building+Practical+AI+%26+Automation+Tools;Creator+of+PocketMC+%26+MSM;Python+%7C+TypeScript+%7C+C%23;Open+Source+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
