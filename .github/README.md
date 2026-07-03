@@ -1,48 +1,46 @@
 <div align="center">
 
-# 👋 This profile has moved
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=This%20account%20has%20moved.&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=~∞&descAlignY=55&descSize=18" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Profile%20Moved&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-
-### My GitHub username has changed.
-
-# 👉 **https://github.com/sizwinz**
-
-<br>
-
-[![New GitHub](https://img.shields.io/badge/New_GitHub-sizwinz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sizwinz)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Formerly+%40sahaj33-op;Now+building+under+%40sizwinz;This+handle+is+kept+reserved+only;All+active+work+has+moved" alt="Typing SVG" />
+</p>
 
 </div>
 
 ---
 
-## Why does this account exist?
+## 📦 This is an archived / reserved account
 
-This account is only here to reserve my previous GitHub username and prevent broken links or impersonation.
+`sahaj33-op` was my original GitHub username. I've since rebranded and moved to a new handle. This account is kept **only to preserve old links, forks, stars, and commit history** — nothing new happens here.
 
-All repositories, future projects, contributions, and updates now live on my new GitHub profile.
+**All active development, projects, and contributions now live at:**
 
-## Looking for my work?
+<div align="center">
 
-### 🚀 https://github.com/sizwinz
+### 🚀 [**github.com/sizwinz**](https://github.com/sizwinz)
 
-You'll find:
+<a href="https://github.com/sizwinz">
+  <img src="https://img.shields.io/badge/Follow%20me%20on-sizwinz-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://sahaj33.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linktr.ee/sahaj33">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
-- AI & automation tools
-- Open-source projects
-- Desktop applications
-- Developer utilities
-- Minecraft server management tools
-- Everything I'm actively building
+</div>
+
+---
+
+### 🔗 If you found this account from:
+- An **old repo link / clone URL** → the project has likely moved to the same repo name under [`sizwinz`](https://github.com/sizwinz?tab=repositories)
+- A **star / fork / issue you opened** → still intact here, no action needed on your end
+- A **bookmark or old README** → please update it to point to `sizwinz`
 
 ---
 
 <div align="center">
-
-⭐ Thanks for visiting!
-
-If you came here from an old link, please head over to my new profile.
-
-### 👉 https://github.com/sizwinz
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
